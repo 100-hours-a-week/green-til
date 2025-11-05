@@ -25,3 +25,5 @@
 
 25.11.04 화요일 | 익명함수, 콜백함수, 모듈 시스템 (CJS, ESM), Tree Shaking  &nbsp; &nbsp; 🔗 [TIL 링크](https://github.com/100-hours-a-week/green-til/blob/main/November/251104(TUE).md)
 
+25.11.05 수요일 | 동기/비동기, Blocking/Non-Blocking, callback, promise, async/await  &nbsp; &nbsp; 🔗 [TIL 링크](https://github.com/100-hours-a-week/green-til/blob/main/November/251105(WED).md)
+
